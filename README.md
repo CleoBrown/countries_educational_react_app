@@ -123,10 +123,11 @@ npm run seeds
 npm run start 
 ```
 
+*(leave terminal window running)*
 
 App should be running on [localhost:3000](http://localhost:3000)
 
-*(leave terminal window running)*
+
 
 
 
