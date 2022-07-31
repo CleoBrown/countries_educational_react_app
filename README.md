@@ -23,7 +23,7 @@ A user should be able to:
 
 ---
 
-## Run in Docker
+## Run in Docker - build locally
 
 _Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and running on your machine._
 
