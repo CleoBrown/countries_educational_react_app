@@ -65,7 +65,7 @@ npm install
 ```
 
 
-## Run the Server: Open "Server" folder in terminal: 
+## Run the Server: Open "Server" folder in terminal 
 
 - To use NPM in Server application:<br>
 <br>Run:
@@ -114,7 +114,7 @@ npm run seeds
 
 
 
-## Run the Frontend: Open "Client" folder in second terminal: 
+## Run the Frontend: Open "Client" folder in second terminal 
 
 
 - Run server (runs the app in the development mode):<br>
